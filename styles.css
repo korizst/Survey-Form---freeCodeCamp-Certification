@@ -1,0 +1,57 @@
+body {
+    background-color: #504a8c;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+}
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    width: 50vw;
+    margin: 0 auto;
+    background-color: #272745;
+    padding: 2.5rem 3rem;
+}
+
+fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+label {
+    display: block;
+    margin: 1.2rem 0;
+}
+
+input, select, textarea {
+    min-height: 2em;
+    width: 100%;
+    margin: .5rem 0 0 0;
+}
+
+input, textarea {
+    border: none;
+}
+
+.inline {
+    display: inline;
+    width: unset;
+    vertical-align: middle;
+    width: 2rem;
+    margin: 0;
+}
+
+.improve {
+    margin-top: 1.2rem;
+}
+
+#submit {
+    padding: 0;
+    background-color: #37AF65;
+    color: white;
+    font-size: 1.1rem;
+}
