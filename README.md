@@ -1,0 +1,2 @@
+Ich habe angefangen, Frontend-Webentwicklung mit freeCodeCamp zu lernen. Dies ist eines der erforderlichen Projekte, um die Responsive Web Design-Zertifizierung zu erhalten. Ich habe ein Umfrageformular erstellt, um Daten von den Benutzern zu sammeln.
+I started to learn frontend web development with freeCodeCamp. This is one of the required projects to earn Responsive Web Design certification. I built a survey form to collect data from the users.
